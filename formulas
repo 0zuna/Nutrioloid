@@ -1,0 +1,32 @@
+Índice Broca
+
+Fué desarrollada en 1871 por Paul Broca, médico y cirujano francés. Es una fórmula sencilla que pretende calcular de forma rápida la masa corporal de un adulto. No distingue de edad y sexo
+
+P. ideal = altura cm – 100
+
+MLIC
+
+La Metropolitan Life Insurance Company, ahora llamada MetLife, es uno de los mayores proveedores mundiales de seguros de vida. En 1983 publicaron unas tablas que señalaban los “pesos ideales” o “pesos deseables” para una mayor longevidad basadas en los datos recogidos por 25 compañias de seguros de vida en Canadá y EE.UU (mas de 4,2 millones de personas). En base a estos datos se desarrolló una fórmula para calcular el peso ideal. Esta fórmula podría devolver resultados algo subestimados ya que parece haberse producido una mejora de la condición física y un aumento de la masa muscular media de la población que podría influir al alza en el calculo de un peso ideal correcto.
+
+P. ideal = 50 + (0.75 * (altura – 150))
+
+Fórmula Lorentz
+
+La fórmula Lorentz es una de las las mas utilizadas para calcular el peso teórico ideal.  Está basada en la fórmula broca a la que se le ha agregado la variable sexo con la intención de lograr resultados mas afinados.
+
+Peso ideal hombre = (altura cm – 100) – (altura cm – 150) / 4
+Peso ideal mujer = (altura cm – 100) – (altura cm – 150) / 2
+
+Perrault
+
+Es otra variación de la fórmula Broca que tiene en cuenta la edad del sujeto aunque no su sexo.
+
+P. ideal = altura cm – 100 + ((edad / 10) x 0.9)
+
+Wan der Vael
+
+Es una fórmula para saber el peso ideal aproximado, tiene en cuenta la altura y el sexo.
+
+Peso ideal hombre = ((altura – 150) x 0.75) + 50
+Peso ideal mujer = ((altura – 150) x 0.6) + 50
+
