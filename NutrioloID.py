@@ -210,7 +210,7 @@ def semana(perfil):
 	global ndia
 	caloriasdiarias=0
 	print int(perfil.peso-pesoIdeal(perfil.sexo, perfil.altura))
-	dias=['Lunes','Martes','Miercoles','Jueves','Sabado','Domingo']
+	dias=['Lunes','Martes','Miercoles','Jueves','Viernes','Sabado','Domingo']
 	tipo_comida=['desayuno', 'media mañana', 'comida', 'merienda', 'cena']
 
 
@@ -397,7 +397,7 @@ def main():
 		print 'muy bien'
 		conosco.peso=float(peso_new)
 		print "%s %s" %(conosco.nombre,valoracion(conosco))
-		dieta(conosco)
+	        dieta(conosco)
 		#print conosco
 	else:
 		peso=raw_input('Cual es tu Peso en kilogramos>:')
